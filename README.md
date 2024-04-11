@@ -1,0 +1,2 @@
+## Object Detection 
+This project aims to create object detection model using Tensorflow Lite. The library used is Model Maker. The Model Maker library uses *transfer learning* to simplify the process of training a TensorFlow Lite model using a custom dataset. Retraining a TensorFlow Lite model with your own custom dataset reduces the amount of training data required and will shorten the training time.
